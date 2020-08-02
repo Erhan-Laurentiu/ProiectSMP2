@@ -4,7 +4,7 @@ const char* password = "insertPassword";
 #define ORG "74kq3p"
 #define DEVICE_TYPE "ESP01"
 #define DEVICE_ID "Demo"
-#define TOKEN "V5(spyr3Ocv3B&sGbm"
+#define TOKEN "xxxxxxxxxxxxx"
 //-------- Customise the above values --------
 char server[] = ORG ".messaging.internetofthings.ibmcloud.com";
 char authMethod[] = "use-token-auth";
